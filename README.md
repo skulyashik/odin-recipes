@@ -1,0 +1,1 @@
+This is my damn first project within The Odin Project course, where I wrote HTML web pages with recipes, used links, images, lists, headings, and also kind of learned how to use Git :)
